@@ -82,7 +82,7 @@ public class QLDocGia_TABLE extends javax.swing.JPanel {
 
             },
             new String [] {
-                "ID Độc Giả ", "Tên Độc Giả", "Địa Chỉ ", "Email", "Số Điện Thoại", "SốLượngMượn ", "Số Lượng Trả"
+                "ID Độc Giả ", "Tên Độc Giả", "Địa Chỉ ", "Email", "Số Điện Thoại"
             }
         ));
         jScrollPane1.setViewportView(jTable1);
